@@ -1,2 +1,2 @@
 # Projetos iniciais
- Testando o Git
+ Testando o Git (repositório)
